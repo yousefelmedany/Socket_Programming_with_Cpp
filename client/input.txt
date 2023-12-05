@@ -1,0 +1,5 @@
+client_post me.jpg
+client_get s1.png
+client_get s2.txt
+client_post c2.jpeg
+client_get c4.html
